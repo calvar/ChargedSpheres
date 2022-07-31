@@ -1,0 +1,20 @@
+No. of steps=		26
+Time before average=	5.e-3
+Printing freq.(stp)=	5
+Signal=			0
+No. of components=	4
+No. of Particles=	10 100 20 20 
+masses=			100. 0.1 0.1 0.1
+Radii= 			1. 0.1 0.1 0.1
+Charges=		11.83 -1.183 1.183 -1.183
+Density=		0.074
+Time step size=		1.e-3
+Lx, Ly asp.rat. to Lz=  1 1
+Temperature=	   	1.e-0
+Thermostat"mass"=	1.
+Thermostat"coupling"=	1.
+Cutoff par(mxr=L*cut)=	1.
+No. of Kvectors=        9
+Convergence param(a)=   0.21
+Histogram bar width=	0.01
+corr. sum freq.(time)=	1.e-2

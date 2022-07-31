@@ -1,0 +1,33 @@
+NVT ensemble
+Side of the box lenght (Lx,Ly,Lz): 46.4159,46.4159,46.4159
+Elapsed time: 0
+Component | No. of particles | mass | charge | rad | Vol. frac.
+0 | 500 | 1 | 1 | 1 | 0.020944
+1 | 500 | 1 | -1 | 1 | 0.020944
+Av. kinetic energy: -nan+/--nan
+Av. potential energy: -nan+/--nan
+Av. soft sphere en.: -nan+/--nan Av. Coul.R en.: -nan+/--nan Av. Coul.K en.: -nan+/--nan
+Av. pressure: -nan+/--nan
+Av. soft sphere pres.: -nan+/--nan Av. Coul.R pres.: -nan+/--nan Av. Coul.K pres.: -nan+/--nan
+NVT ensemble
+Side of the box lenght (Lx,Ly,Lz): 46.4159,46.4159,46.4159
+Elapsed time: 0
+Component | No. of particles | mass | charge | rad | Vol. frac.
+0 | 500 | 1 | 1 | 0.5 | 0.00261799
+1 | 500 | 1 | -1 | 0.5 | 0.00261799
+Av. kinetic energy: -nan+/--nan
+Av. potential energy: -nan+/--nan
+Av. soft sphere en.: -nan+/--nan Av. Coul.R en.: -nan+/--nan Av. Coul.K en.: -nan+/--nan
+Av. pressure: -nan+/--nan
+Av. soft sphere pres.: -nan+/--nan Av. Coul.R pres.: -nan+/--nan Av. Coul.K pres.: -nan+/--nan
+NVT ensemble
+Side of the box lenght (Lx,Ly,Lz): 100,100,100
+Elapsed time: 0
+Component | No. of particles | mass | charge | rad | Vol. frac.
+0 | 5000 | 1 | 1 | 0.5 | 0.00261799
+1 | 5000 | 1 | -1 | 0.5 | 0.00261799
+Av. kinetic energy: -nan+/--nan
+Av. potential energy: -nan+/--nan
+Av. soft sphere en.: -nan+/--nan Av. Coul.R en.: -nan+/--nan Av. Coul.K en.: -nan+/--nan
+Av. pressure: -nan+/--nan
+Av. soft sphere pres.: -nan+/--nan Av. Coul.R pres.: -nan+/--nan Av. Coul.K pres.: -nan+/--nan
